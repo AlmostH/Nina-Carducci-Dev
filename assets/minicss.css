@@ -95,6 +95,7 @@ nav a {
 	font-weight: 800;
 	font-style: italic;
 	width: 60%;
+	font-size: 1em;
 }
 #about-me p {
 	width: 80%;
@@ -108,6 +109,7 @@ nav a {
 .title{
 	text-align: center;
 	padding-block: 2em;
+	font-size: calc(1.3rem + 0.6vw)
 }
 .gallery .nav {
 	justify-content: center;
@@ -159,6 +161,7 @@ nav a {
 	font-family: Spectral;
 	font-style: italic;
 	font-weight: 300;
+	font-size: calc(1.375rem + 1.5vw);
 
 }
 .quote__author {
